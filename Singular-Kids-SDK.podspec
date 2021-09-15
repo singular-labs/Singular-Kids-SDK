@@ -1,12 +1,12 @@
 Pod::Spec.new do |spec|
-  spec.name         = "Singular-Coppa-SDK"
+  spec.name         = "Singular-Kids-SDK"
   spec.version      = "11.0.0"
-  spec.summary      = "Singular's iOS Coppa SDK"
+  spec.summary      = "Singular's iOS Kids SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
   spec.homepage     = "https://www.singular.net/"
   spec.author       = "Singular Labs"
-  spec.source       = { :git => "https://github.com/singular-labs/Singular-iOS-Coppa-SDK.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/singular-labs/Singular-Kids-SDK.git", :tag => spec.version.to_s }
 
   spec.static_framework = true
   spec.ios.deployment_target = "8.0"
