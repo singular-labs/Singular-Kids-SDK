@@ -1,1 +1,1 @@
-# Singular-iOS-Coppa-SDK
+# Singular-Kids-SDK
