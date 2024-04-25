@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-Kids-SDK"
-  spec.version      = "12.3.2"
+  spec.version      = "12.4.2"
   spec.summary      = "Singular's iOS Kids SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
@@ -8,8 +8,7 @@ Pod::Spec.new do |spec|
   spec.author       = "Singular Labs"
   spec.source       = { :git => "https://github.com/singular-labs/Singular-Kids-SDK.git", :tag => spec.version.to_s }
 
-  spec.static_framework = true
-  spec.ios.deployment_target = "8.0"
+  spec.ios.deployment_target = "12.0"
   spec.ios.frameworks  = 'Security', 'SystemConfiguration', 'StoreKit', 'WebKit'
   spec.ios.libraries = 'sqlite3.0', 'z'
 
