@@ -45,6 +45,10 @@ typedef void (^SdidAccessorHandler)(NSString* result);
 @property SdidAccessorHandler didSetSdidHandler;
 @property SdidAccessorHandler sdidReceivedHandler;
 
+// Push Notifications fields
+@property NSDictionary* pushNotificationPayload;
+@property NSArray<NSArray<NSString*>*>* pushNotificationLinkPath;
+
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;
 
 -(void)setGlobalProperty:(NSString*)key withValue:(NSString*)value overrideExisting:(BOOL)overrideExisiting;
