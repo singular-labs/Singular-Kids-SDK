@@ -27,6 +27,7 @@
 @property long shortLinkResolveTimeOut;
 @property NSArray* supportedDomains __attribute__((deprecated));
 @property NSArray* espDomains;
+@property NSArray* brandedDomains;
 
 // Global Properties fields
 @property (readonly) NSMutableDictionary* globalProperties;

@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		bleePufs7cO0zwZeS3gfwYW4kIs=
+		bhm+MI3aV2j9sxYor+25iyE2VBo=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		mxIs5lZ2yufa/gk8MHRo43mMxzU=
+		PJUiJWqqqm3/HG6sIdtAJbiHn3c=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		t8X0lOjmagKBfpVV8s9pW0sLSaM=
+		9JbEgOgz1HtpZJ3BkNu5d+PO8rk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		bleePufs7cO0zwZeS3gfwYW4kIs=
+		bhm+MI3aV2j9sxYor+25iyE2VBo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		GjI6mZ2jdTYqw4QBf+ie+kHLbiQ=
+		jJd0CEHuxiEpojFpohQcl6QwGIw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		Y5nv1L1Eb5exHIm2uxH8/JzfGHM=
+		QhTuAcsMcn8aEJt+Sscf3CBmLVc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -154,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bleePufs7cO0zwZeS3gfwYW4kIs=
+			bhm+MI3aV2j9sxYor+25iyE2VBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PEBi2edYPddrAxFRw3dwI0rOtVwOx3LQkXiFjdlvpvQ=
+			pgj2pEY+tWMtDq9/cQfytJ0mMj4EBDMJ+WnoesAg57o=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
@@ -176,11 +176,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mxIs5lZ2yufa/gk8MHRo43mMxzU=
+			PJUiJWqqqm3/HG6sIdtAJbiHn3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wzaa3u0aa+C0jraFPlfV/0g5ZZKJNNYnKMb3RiSZSUI=
+			oXHtcYfZSXHyzQfNdBlzv/T676rDpTeoUe5FTchIufs=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
@@ -209,11 +209,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t8X0lOjmagKBfpVV8s9pW0sLSaM=
+			9JbEgOgz1HtpZJ3BkNu5d+PO8rk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+zSmUUbCgVhvlAZjAH/cMDSFR6jknAxBHy7q3AfxCe0=
+			s2yrvVLfCS7jG+fBbcJEjXvwAPhemWTmOKrYNWBe0QA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
@@ -275,11 +275,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bleePufs7cO0zwZeS3gfwYW4kIs=
+			bhm+MI3aV2j9sxYor+25iyE2VBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PEBi2edYPddrAxFRw3dwI0rOtVwOx3LQkXiFjdlvpvQ=
+			pgj2pEY+tWMtDq9/cQfytJ0mMj4EBDMJ+WnoesAg57o=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
@@ -297,11 +297,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GjI6mZ2jdTYqw4QBf+ie+kHLbiQ=
+			jJd0CEHuxiEpojFpohQcl6QwGIw=
 			</data>
 			<key>hash2</key>
 			<data>
-			SUINp7Iz4IOLERRPOfvX1pO0z6ZhfvtwicwvPKIWuGc=
+			pbOi02KcSsOMMa3rhf56ddgO0/6USaciigHDg5whLKs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
@@ -330,11 +330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y5nv1L1Eb5exHIm2uxH8/JzfGHM=
+			QhTuAcsMcn8aEJt+Sscf3CBmLVc=
 			</data>
 			<key>hash2</key>
 			<data>
-			6/7iMmrWNA/WUdHVdVncffc/RPOC2PzQM7ph/rNJmDg=
+			taQ4wXsPEyUAZKka8PnnQM6UpjOSCjTYQh8X2MDdl3k=
 			</data>
 		</dict>
 	</dict>
