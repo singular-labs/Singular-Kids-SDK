@@ -50,6 +50,9 @@ typedef void (^SdidAccessorHandler)(NSString* result);
 @property NSDictionary* pushNotificationPayload;
 @property NSArray<NSArray<NSString*>*>* pushNotificationLinkPath;
 
+// Google ODM fields
+@property NSInteger enableOdmWithTimeoutInterval; // in Seconds
+
 -(id)initWithApiKey:(NSString*)apikey andSecret:(NSString*)secret;
 
 -(void)setGlobalProperty:(NSString*)key withValue:(NSString*)value overrideExisting:(BOOL)overrideExisiting;
