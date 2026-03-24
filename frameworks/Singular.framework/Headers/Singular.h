@@ -11,6 +11,7 @@
 #import "Attributes.h"
 #import "Events.h"
 #import "SingularAdData.h"
+#import "SingularLogLevel.h"
 
 // avoid circular include of SingularLinkParams
 #ifndef SingularLinkParams
@@ -103,6 +104,7 @@
 
 + (void)customRevenue:(NSData *)transactionJsonRepresentation productJsonRepresentation:(NSData *)productJsonRepresentation;
 + (void)customRevenue:(NSString *)eventName transactionJsonRepresentation:(NSData *)transactionJsonRepresentation productJsonRepresentation:(NSData *)productJsonRepresentation;
++ (void)customRevenue:(NSString *)eventName transactionJsonRepresentation:(NSData *)transactionJsonRepresentation productJsonRepresentation:(NSData *)productJsonRepresentation withAttributes:(NSDictionary *)attributes;
 
 + (void)setCustomUserId:(NSString *)customUserId;
 + (void)unsetCustomUserId;
@@ -128,7 +130,9 @@
 + (BOOL)isAllTrackingStopped;
 + (void)limitDataSharing:(BOOL)shouldLimitDataSharing;
 + (BOOL)getLimitDataSharing;
-
+#ifndef SINGULAR_KIDS
++ (void)setLimitAdvertisingIdentifiers:(BOOL)enabled;
+#endif // !SINGULAR_KIDS
 #pragma mark - SKAN Methods
 
 + (void)skanRegisterAppForAdNetworkAttribution;
@@ -161,5 +165,8 @@
               passthroughParams:(NSDictionary *)passthroughParams
               completionHandler:(void (^)(NSString *, NSError *))completionHandler;
 
+#pragma mark - Logger methods
++ (void)setLoggingEnabled:(BOOL)enabled;
++ (void)setLogLevel:(SingularLogLevel)logLevel;
 
 @end

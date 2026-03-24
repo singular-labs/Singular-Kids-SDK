@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-Kids-SDK"
-  spec.version      = "12.8.1"
+  spec.version      = "12.10.1"
   spec.summary      = "Singular's iOS Kids SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
@@ -31,7 +31,6 @@ Pod::Spec.new do |spec|
     ss.ios.pod_target_xcconfig = {
         'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/Singular-SDK/frameworks/**',
         'OTHER_LDFLAGS' => '$(inherited) -framework "Singular"'
-  }
+    }
   end
 end
-
