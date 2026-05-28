@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Singular-Kids-SDK"
-  spec.version      = "12.10.1"
+  spec.version      = "12.12.0"
   spec.summary      = "Singular's iOS Kids SDK"
   spec.description  = "Singular's SDK integration for iOS"
   spec.license      = "MIT"
