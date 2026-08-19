@@ -14,7 +14,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/Singular.h</key>
 		<data>
-		dqlsqjcZO3qX5jpIUdL0TcNQynM=
+		IIwiiXNtu0rCqX3NvdLIrgZMT7A=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/Singular.js</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		tkPuVQrzrWIT76g0ufntFXADAHU=
+		gwFt3OWg4BOS/+VxzhpQdvJJkxs=
 		</data>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		ALbONasoFMfSB4EILslZFkVotwo=
+		/i8RYW/uJMlc6mzdx9P4E2LXIlc=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		BwbSZwG8Cwuw3yTc0MDloZrR1/A=
+		R9MkolewlmByyCWMVMIKOTTKlKI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.h</key>
 		<data>
-		dqlsqjcZO3qX5jpIUdL0TcNQynM=
+		IIwiiXNtu0rCqX3NvdLIrgZMT7A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.js</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularConfig.h</key>
 		<data>
-		tkPuVQrzrWIT76g0ufntFXADAHU=
+		gwFt3OWg4BOS/+VxzhpQdvJJkxs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		ElfPJC2lt1VapBhaEIQtxLC/CR8=
+		ynF3fXx+e+LE6zjHoLAWT+1GoWM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		AjSo6i4jCODeTJYYQVamiBx22ks=
+		jDrqIU6ITS/os4+BfZoJWyxykic=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -121,7 +121,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nVD+ezVgPxTGDv10Xmcdk+2IvGrI5stNxIBTqSkIvkY=
+			Z5rRb4Z5zss2Y4SR0RoGM7JpkGJUlHvGHQMC3bg+YAA=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/Singular.js</key>
@@ -142,7 +142,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U0SVgw2pAlQCPn/+hJCkvDo0DDEY6C8Y1MqEs4BoKhI=
+			xdAHOkY/ZD8FjDNdQURu4DSZncZO9/lnJcoeELxfRmQ=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Headers/SingularLinkParams.h</key>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9PkgobiX3k9zroM1g0ee/gdmuuL2WwL8k4ecN6HUqOU=
+			wL2pfTdzHg06MwjrKjKjwowTlNXUBs1v1hFfUScLWMI=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			asZhRluRNpflCB28AHxgEWOSmeEBFbuNlkq26JTOI0g=
+			XpoUFdepZQ4MtpXd9HbGF4coOqa0DAH1CUXZGKpB9B4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
@@ -205,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nVD+ezVgPxTGDv10Xmcdk+2IvGrI5stNxIBTqSkIvkY=
+			Z5rRb4Z5zss2Y4SR0RoGM7JpkGJUlHvGHQMC3bg+YAA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Singular.js</key>
@@ -226,7 +226,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U0SVgw2pAlQCPn/+hJCkvDo0DDEY6C8Y1MqEs4BoKhI=
+			xdAHOkY/ZD8FjDNdQURu4DSZncZO9/lnJcoeELxfRmQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/SingularLinkParams.h</key>
@@ -247,7 +247,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H6/gvRPrdasl2Zg8qAoaEtpfULMh0JVLM3zH2hWxGFA=
+			RTnh4GTvUipb1ZNJh8oVyLKyqNKaume+qqFFFoJAKqE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
@@ -268,7 +268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mCKF7EgKTalk93aRdhM+waJmYGUmC8ul8UkvroMInXg=
+			O7mbXiOH2hkiRFz413gsjjKGYAEjauNMnmuWKZsBX7k=
 			</data>
 		</dict>
 	</dict>
