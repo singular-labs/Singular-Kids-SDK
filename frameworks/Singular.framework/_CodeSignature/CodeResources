@@ -12,6 +12,10 @@
 		<data>
 		5IRRK0/rTG8Vu2HIOY4R62XL+x4=
 		</data>
+		<key>Headers/Singular-Swift.h</key>
+		<data>
+		CUjNMmZKx3jxeDlKXwiTjpkijDA=
+		</data>
 		<key>Headers/Singular.h</key>
 		<data>
 		IIwiiXNtu0rCqX3NvdLIrgZMT7A=
@@ -42,7 +46,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/h0Ni2l6rbdPx2fp/TB7Xc7WIz0=
+		+hXvWMThrhN8omqUjPbaonFPNDs=
+		</data>
+		<key>Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
+		</data>
+		<key>Modules/Singular.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		ChK+EL6jQfeAjz40Hek2f/sUfKc=
+		</data>
+		<key>Modules/Singular.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		Dj0KQFk1wnCGn7goDUlNB+32gNY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,6 +83,13 @@
 			<key>hash2</key>
 			<data>
 			4cQQtgU+NpPlW+rlxEtoXT+lBzobfMAHzVTlraY2a+c=
+			</data>
+		</dict>
+		<key>Headers/Singular-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F3LWeDeUuDhiAUdSGFSWit/tPKdsyPGUQDV9XHaPr/I=
 			</data>
 		</dict>
 		<key>Headers/Singular.h</key>
@@ -116,6 +139,27 @@
 			<key>hash2</key>
 			<data>
 			sXHiq2UTQGDcLmFPsmsz8Rsf8++MSVqDQiaKkJuJbMQ=
+			</data>
+		</dict>
+		<key>Modules/Singular.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
+			</data>
+		</dict>
+		<key>Modules/Singular.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yQZq/dDsulMLQGf1XWv7RrAkuCvjlGNd8Ifb//5XBVo=
+			</data>
+		</dict>
+		<key>Modules/Singular.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lb6bhDBBipZ9kdq7VZRJFAGjbCFpsAQeEsKMhR54AuA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

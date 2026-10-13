@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Info.plist</key>
 		<data>
-		/h0Ni2l6rbdPx2fp/TB7Xc7WIz0=
+		+hXvWMThrhN8omqUjPbaonFPNDs=
 		</data>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>ios-arm64/Singular.framework/Singular</key>
 		<data>
-		XIbewC88ZDPfXBhjOZ5z6covzBk=
+		wLfBvlifk86UtlEctr+5/T1SWfE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Info.plist</key>
 		<data>
-		6YDBEJRZRIWIGfpMbaTJR69WIOg=
+		H7hbrSnshHK1aiTKgUbxKnrLYp4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Singular</key>
 		<data>
-		HTLuwTsHRR6zySDYMs8gbQIyqh4=
+		OC7VKmV4zamliT2RGQdx7T9eTHQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DExOojKn/zltr3ygYNq4QZMvUcC9sAXYKDgXhLOlQ00=
+			5sgn/NcmV7QYZvkTBtq3W4/xuBmA0DeRVJErKLBG2Jw=
 			</data>
 		</dict>
 		<key>ios-arm64/Singular.framework/Modules/module.modulemap</key>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QiRsKpaS/DscOHnEX36PxRt9BJu+259S+Dw52nmsRYQ=
+			mEUDM/pTRax3grai6IoxpogqNqGBayXpy/PgNGZN8kg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Headers/Attributes.h</key>
@@ -247,7 +247,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JjJhIZjsrKtd2zKJSsrwEqEkJtphaykp8n7PQonfEtg=
+			aldM01AmnCsQ8XAuVr1geV5lchXFuoTE3eJ3aLuwFIE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Singular.framework/Modules/module.modulemap</key>
@@ -268,7 +268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xXaaGA5274AUAiTwTxWHXcQAZ9XVKmzb/P/1tgYq4NM=
+			1hk/KBuZqcla3ZS9fa6LNT8eIL9Jb35EfRrxRqlK69Y=
 			</data>
 		</dict>
 	</dict>
